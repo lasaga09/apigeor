@@ -1,0 +1,25 @@
+
+--este es el token de usuario amador puede usar este token para realizar el crud ala tabla productos
+o sino registrar un nuevo token 
+en la siguiente endpoit
+http://127.0.0.1:8000/api/register   (levantando con consola)
+localhost/api/public/api/register (de modo htdocs)
+method post
+cuerpo de envio
+{
+"name":"amador",
+"email":"amador@gmail.com",
+"password":"123456",
+"c_password":"123456"
+}
+
+
+-------si tiene algun problema para levantar me puede llamar-----------
+
+
+
+
+
+
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiM2QwNjNmYWFhMzA4NjY5MGZjNDhiZGUyMmRkN2FmMmZjNzQ3NTA5M2QyMGQwNjNhZGVmMmYxNjlhYmYyM2M2ZWFjMDNmZWE3N2RiYmU0ZDMiLCJpYXQiOjE1NzM3ODA4MzYsIm5iZiI6MTU3Mzc4MDgzNiwiZXhwIjoxNjA1NDAzMjM2LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.YTeVJzGTaX4fuV_dvm73wwZ0-upbHclTD0OddCfES75NDMHYCnnygcO3wVzFBcSx1pVCO77KAfYVrPqjI415fWwQtm8xFXKPSGa88AWtwPN4y4rYONUwIG1_u2o4u3LVdZ8EGBYeDSu9SRmhSvx3Uqw9KcvqLcIOg-5jkyHjXBf2vN1jzFfAziCh-53CWwefdNaiOjvl2TDDJfHRxezXWAXPOLErFMG-VCONOysSU-nKvcpGkDb6GjzRLsNZlqZYhRBlGEH_2B0-_qAE8n2pC-fjM98Iq2s2poM7U0hfZN00HsMPhjHctWUgluO9jz-IzauFYZs_-Du2WhN-4Iu-K_SaSuiE96BWlVW9YI8OYMA6sshnYIhHgflaRayPiKg21xwe3p32PHjKAGXykQCLPa786Tm09wueR8dP7PJhKz67ycW_EHn1meVvAU2xrnNWF4rXHnDi31EeUTKVC52fimvuX1o4uNrV032CAHOamh3i-N8M7kupnWFFTubVax7X78PCrmUj5cK7_ZyHUjaKZP7Mb6f7Y8xkfd4tLVcDxVap_eT1e9Wgftlw1hDbdEATjL0JAiisD9L_8tqTF5oncRGfMU1g1ZDv_wBj1v6ISt9_fQrDx5V8kfPQH-8hHkJsub9FVnD-9cbOJkGdnZVOZ7y-cNS2k5vLYq2p8cTNcsg
